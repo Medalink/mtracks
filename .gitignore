@@ -1,0 +1,35 @@
+# BigWigsMods Packager artifacts
+.release/
+*.zip
+
+# WoW SavedVariables (shouldn't be in source control)
+*.lua.bak
+WTF/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+
+# Logs
+*.log
+
+# Package artifacts
+/release/
+/.release/

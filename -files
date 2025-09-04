@@ -1,0 +1,4 @@
+[33m479713a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fix TOC version.
+[33m2b137ba[m Add support for packager
+[33m663f7b8[m[33m ([m[1;31morigin/master[m[33m)[m Import alpha code
+[33mfeb8c9a[m Initial commit: Add MTracks addon with packager support

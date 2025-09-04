@@ -1,0 +1,20 @@
+## Interface: 110200
+## Title: MTracks
+## Notes: Track your Mythic+ group applications with modern UI
+## Author: Medalink
+## Version: @project-version@
+## SavedVariables: MTracksDB
+
+## X-Category: PvE
+## X-Website: https://github.com/Medalink/MTracks
+## X-Curse-Project-ID: 
+## X-Wago-ID: 96dolXNO
+## X-WoWI-ID:
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Core.lua
+Logo.lua
+# Debug.lua
